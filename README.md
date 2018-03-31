@@ -20,24 +20,6 @@ Website Footer
 
 When you decide to use `MPOS` please be so kind and leave the footer intact. You are not the author of the software and should honor those that have worked on it. Keeping the footer intact helps spreading the word. Leaving the donation address untouched allows miners to donate to the author.
 
-Donors
-======
-
-These people have supported this project with a donation:
-
-* [obigal](https://github.com/obigal)
-* [vias](https://github.com/vias79)
-* [WKNiGHT](https://github.com/WKNiGHT-)
-* [ZC](https://github.com/zccopwrx)
-* Nutnut
-* Caberhagen (https://coin-mining.ch)
-* Mining4All (https://www.mining4all.eu/)
-* [xisi](https://github.com/xisi)
-* [PCFiL](https://github.com/PCFiL)
-* [rog1121](https://github.com/rog1121)(https://rapidhash.net)
-* [Wow, Much Pool](http://www.wowmuchpool.com/)
-* webxassDE (https://www.suchcoins.com/)
-
 Pools running MPOS
 ==================
 
@@ -63,7 +45,6 @@ for full information.
  * php5-mysqlnd
  * php5-memcached
  * php5-curl
-* MySQL Server
  * mysql-server
 * memcached
 * stratum-mining
